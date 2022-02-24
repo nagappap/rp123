@@ -1,7 +1,7 @@
 select*from batch15
 
 alter table batch15
-add l_name varchar(255);
+add l_name varchar(256);
 
 
 
